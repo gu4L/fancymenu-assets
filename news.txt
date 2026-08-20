@@ -1,8 +1,8 @@
-&lESTO &lES &lKyO!!!
+&lESTO &lES &lKyo!!!
 &oNueva &oTemporada &oy &onuevo &ode &otodo
-Vienvenidos a &lKyO &lRe:Forged
+Bienvenidos a &lKyo &lRE:FORGED
 
 Esta temporada, empezamos fuerte.
 Con cada vez mas mods.
-Esta temporada se centra en algo nuevo para muchos, el CreateMod, un nuevo mundo, nuevas possibilidades para todos.
+&lEsta temporada se centra en algo nuevo para muchos, el CreateMod, un nuevo mundo, nuevas possibilidades para todos.
 (es muy possible que se tengan problemas de rendimento, esperamos poder arreglarlos mas adelante.)
