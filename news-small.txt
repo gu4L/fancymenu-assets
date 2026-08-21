@@ -1,6 +1,6 @@
 &lESTO &lES &lKyo!!!
 &oNueva &oTemporada &oy &onuevo &ode &otodo
-Bienvenidos a &lKyo &lRE:FORGED
+&rBienvenidos a &lKyo &lRE:FORGED
 
-Esta temporada, empezamos fuerte.
+&rEsta temporada, empezamos fuerte.
 Con cada vez mas mods.
